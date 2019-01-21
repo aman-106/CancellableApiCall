@@ -1,0 +1,21 @@
+{
+  "name": "cancellable-api",
+  "version": "1.0.0",
+  "description": "This function helps to make cancellable promise call maintaining object property cacellable (async / await fn) .This helps to rid of merroy leak error in React for asynchronous /api calls.",
+  "main": "src/cancellableApiCall.js",
+  "keywords": [
+    "React",
+    "promise",
+    "cancellable",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aman-106/CancellableApiCall.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amandeep-kumar",
+  "license": "ISC"
+}
