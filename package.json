@@ -1,5 +1,5 @@
 {
-  "name": "cancellable-api",
+  "name": "cancellable-api-call",
   "version": "1.0.0",
   "description": "This function helps to make cancellable promise call maintaining object property cacellable (async / await fn) .This helps to rid of merroy leak error in React for asynchronous /api calls.",
   "main": "src/cancellableApiCall.js",
